@@ -37,3 +37,15 @@ This project provides an advanced analytics and prediction platform for Singapor
 
 ## Project Structure
 
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+1. Python 3.8+
+2. Install dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+
